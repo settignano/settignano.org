@@ -10,4 +10,4 @@ design:
 
 
 👋 benvenuti nel sito (in costruzione) di Settignano, Firenze!
-se hai idee e vuoi collaborare, [via qui](https://github.com/settignano/settignano.org)... altrimenti torna presto![](https://wowchemy.com/docs/content/)
+se hai idee e vuoi collaborare, [ecco qui](https://github.com/settignano/settignano.org)... altrimenti torna presto!
