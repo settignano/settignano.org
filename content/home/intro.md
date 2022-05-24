@@ -1,18 +1,13 @@
 ---
-# Use the Intro widget of the Blog template
-widget: about.avatar
-
-# This file represents a page section.
+widget: blank
 headless: true
-
-# Order that this section will appear in.
 weight: 10
-
-author: admin
-
+design:
+  columns: 1
 ---
 
-👋 sito in costruzione....
+![screen reader text](img/logo_settignano.jpg)
 
 
-se cerchi la Casa del Popolo di Settignano: [cdp.settignano.org](https://cdp.settignano.org/)
+👋 benvenuti nel sito (in costruzione) di Settignano, Firenze!
+se hai idee e vuoi collaborare, [via qui](https://github.com/settignano/settignano.org)... altrimenti torna presto![](https://wowchemy.com/docs/content/)
