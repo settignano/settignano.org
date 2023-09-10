@@ -2,11 +2,13 @@
 title: Settignano
 ---
 
-
 👋 il sito di Settignano, Firenze!
 
-se cercate il [Coordinamento Mensola-Settignano, è qui](./coordinamento.md).
+<div class="grid cards" markdown>
 
-se cercate la [Casa del Popolo di Settignano, qui](./cdp.md)
+- :fontawesome-regular-circle-play: **[Coordinamento Mensola-Settignano](./coordinamento.md)**
+- :fontawesome-solid-book: **[Casa del Popolo di Settignano](./cdp.md)**    
+- :fontawesome-solid-book: **[Contatti](https://github.com/settignano/settignano.org)**  
+se avete idee e volete collaborare,
+</div>
 
-se avete idee e volete collaborare, [ecco qui](https://github.com/settignano/settignano.org)... altrimenti torna presto!
