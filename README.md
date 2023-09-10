@@ -1,6 +1,6 @@
-# 2042ed.org - scuola giochi futuro
+# settignano.org
 
-repository del sito <https://2042ed.org>  
+repository del sito <https://settignano.org>  
 il repository pubblico di questo libro è <https://github.com/2042ed/2042ed.org>
 
 ## Commands

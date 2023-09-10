@@ -1,5 +1,7 @@
 ---
 title: Coordinamento
+hide:
+  - navigation
 ---
 
 # Coordinamento Mensola-Settignano
@@ -25,7 +27,7 @@ partecipanti, per chiarire e organizzare le richieste, per implementare la comun
 ## Mappa
 La google map con tutti gli interventi è [qui](https://www.google.com/maps/d/u/0/edit?mid=1BX9PNa5IwBoe9VGx84S1an3zkj2HuagX&usp=sharing)
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1BX9PNa5IwBoe9VGx84S1an3zkj2HuagX&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1BX9PNa5IwBoe9VGx84S1an3zkj2HuagX&ehbc=2E312F" width="800" height="600"></iframe>
 
 ## Piano Operativo
 Un documento con lo stato attuale del [Piano Operativo è qui](https://drive.google.com/drive/folders/1eWJbZ92kzV8aqRqFM5hMzgS2vxx6NvQ5)

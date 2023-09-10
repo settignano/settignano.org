@@ -1,5 +1,7 @@
 ---
 title: Settignano
+hide:
+  - navigation
 ---
 
 👋 il sito di Settignano, Firenze!
@@ -11,4 +13,3 @@ title: Settignano
 - :fontawesome-solid-book: **[Contatti](https://github.com/settignano/settignano.org)**  
 se avete idee e volete collaborare,
 </div>
-

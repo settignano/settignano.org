@@ -62,11 +62,17 @@ extra:
   social:
 #    - icon: fontawesome/brands/facebook 
 #      link: https://www.facebook.com/groups/2050x
-#    - icon: fontawesome/brands/github 
-#      link: https://github.com/2050x
+    - icon: fontawesome/brands/github 
+      link: https://github.com/settignano/
 #    - icon: fontawesome/brands/discord 
 #      link: https://discord.gg/VUjgGtDgAh
   consent:
     title: Accettazione Cookie
     description: >- 
       Questo sito usa alcuni cookies per garantire la migliore esperienza di navigazione. Niente di speciale.
+
+nav:
+  - index.md
+  - coordinamento.md
+  - cdp.md
+  - contatti.md
