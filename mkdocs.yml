@@ -1,0 +1,76 @@
+site_name: Settignano 
+site_url: https://settignano.org
+site_author: Stefano Cecere
+site_description: il sito di Settignano, frazione della città di Firenze
+
+copyright: <a href="/contatti/">chi siamo a gestire questo bellissimo sito?</a>
+
+theme:
+  name: material
+  language: it
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/file-edit-outline
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Plugins
+plugins:
+  - table-reader
+  - minify:
+      minify_html: true
+  - awesome-pages
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra:
+#  analytics:
+#    provider: google
+#    property: G-6CTL17N8TN
+  social:
+#    - icon: fontawesome/brands/facebook 
+#      link: https://www.facebook.com/groups/2050x
+#    - icon: fontawesome/brands/github 
+#      link: https://github.com/2050x
+#    - icon: fontawesome/brands/discord 
+#      link: https://discord.gg/VUjgGtDgAh
+  consent:
+    title: Accettazione Cookie
+    description: >- 
+      Questo sito usa alcuni cookies per garantire la migliore esperienza di navigazione. Niente di speciale.
