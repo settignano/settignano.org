@@ -51,8 +51,6 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  - minify:
-      minify_html: true
 
 extra_css:
   - assets/stylesheets/extra.css
