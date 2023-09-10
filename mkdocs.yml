@@ -51,10 +51,8 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  - table-reader
   - minify:
       minify_html: true
-  - awesome-pages
 
 extra_css:
   - assets/stylesheets/extra.css
