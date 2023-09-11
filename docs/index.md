@@ -4,6 +4,8 @@ hide:
   - navigation
 ---
 
+![cena in piazza 2023](assets/img/foto-cena-piazza-2023.jpg)
+
 👋 il sito di Settignano, Firenze!
 
 <div class="grid cards" markdown>
