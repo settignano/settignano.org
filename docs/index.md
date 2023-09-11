@@ -3,10 +3,10 @@ title: Settignano
 hide:
   - navigation
 ---
-
+# sulle colline di Firenze...
 ![cena in piazza 2023](assets/img/foto-cena-piazza-2023.jpg)
 
-👋 il sito di Settignano, Firenze!
+👋 benvenuti e benvenute a Settignano! In questo piccolo sito troverete informazioni sul Coordinamento Mensola-Settignano, alla Casa del Popolo e alcuni link della nostra comunità.
 
 <div class="grid cards" markdown>
 
