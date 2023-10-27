@@ -20,4 +20,5 @@ il programma della giornata sarà:
 
 NB: davanti alla CdP si potranno **portare le proprie zucche** per esposizione popolare
 
+![](assets/img/halloween-zucche.webp)
 
