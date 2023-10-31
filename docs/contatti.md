@@ -11,5 +11,6 @@ hide:
 - [Misericordia di Settignano - Firenze](https://www.facebook.com/groups/35962933079)
 
 ## Questo sito
+Questo sito è costruito da [Stefano Cecere](https://2042.substack.com/) e da altri volenterosi settignagnesi con tecnologia [open source](https://github.com/settignano/settignano.org), gratuita e sicura.
 
-Se volete entrare in contatto con chi ha creato questo sito e proporre aggiornamenti, partite da [https://github.com/settignano/settignano.org](https://github.com/settignano/settignano.org)
+Per contatti diretti potete fare riferimento alla [Casa del Popolo](https://cdp.settignano.org/#contatti)
