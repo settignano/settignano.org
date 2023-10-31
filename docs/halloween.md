@@ -16,8 +16,10 @@ Se volete segnalare una casa compilate [👉🏼 questa form](https://forms.gle/
 
 il programma della giornata sarà:
 
-- dalle 16:30 alle 17:30 ritrovo alla Casa del Popolo per merenda e vestizione
-- dalle 17:30 alle 19:30 tutti in giro per Settignano (accompagnati da genitori o tutori, ovviamente)
-- dalle 19:30 alle 21:00 aperitivo e pizza alla Casa del Popolo
+- dalle 16:30 alle 17:30 ritrovo alla Casa del Popolo per merenda e vestizione (ognuno si porta i suoi vestiti e si veste)
+- dalle 17:30 alle 19:30 tutti in giro per Settignano (accompagnati dai propri genitori, ovviamente)
+- dalle 19:30 alle 21:00 aperitivo e pizza alla Casa del Popolo (prenotare in anticipo 055697007)
 
-NB: davanti alla CdP si potranno **portare le proprie zucche** per esposizione popolare
+NB: non c'è nessuna attività pre-organizzata: ogni genitore deve tutelare i propri figli eventualmente in coordinazione con altri amci di classe. Noi si è fatto giusto un lavoro di preparazione e avviso.
+
+PS: se l'avete fatta, davanti alla CdP si potranno **portare le proprie zucche** per una libera esposizione popolare
