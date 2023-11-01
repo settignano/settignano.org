@@ -7,10 +7,8 @@ hide:
 
 ![](assets/img/halloween/halloween-mappa-2023.jpg)
 
-[👉🏼Per aprire la mappa in google maps](https://www.google.com/maps/d/edit?mid=1969Vz8rvqA_DsUyPScdcTHd_1E0L4Ls&usp=sharing)  
-Se volete segnalare una casa compilate [👉🏼 questa form](https://forms.gle/3rZDizoN1UPJZRmF6) oppure WhatsApp 347673236
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1969Vz8rvqA_DsUyPScdcTHd_1E0L4Ls&ehbc=2E312F&noprof=1" width="100%" height="600"></iframe>
+<iframe width="100%" height="600px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/it/map/halloween-settignano-2023_980100?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=true&captionMenus=true&starControl=false&editinosmControl=false&measureControl=false&locateControl=false&fullscreenControl=true&datalayers=3014718%2C3014719#16/43.7840/11.3269"></iframe><p><a href="//umap.openstreetmap.fr/it/map/halloween-settignano-2023_980100?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=true&captionMenus=true&starControl=false&editinosmControl=false&measureControl=false&locateControl=false&fullscreenControl=true&datalayers=3014718%2C3014719#16/43.7840/11.3269">Visualizza a schermo intero</a></p>
 
 ![](assets/img/halloween/halloween-2023.webp)
 
