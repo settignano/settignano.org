@@ -33,12 +33,10 @@ La google map con tutti gli interventi è [qui](https://www.google.com/maps/d/u/
 Un documento con lo stato attuale del [Piano Operativo è qui](https://drive.google.com/drive/folders/1eWJbZ92kzV8aqRqFM5hMzgS2vxx6NvQ5)
 
 ## Contatti
-Per informazioni sul Coordinamento e per partecipare
+Per aggiornamenti e informazioni sul Coordinamento e per partecipare
 
-**Telefono**: Mario Andreini (presidente): 3473421510
-
-**Mailing List:** [groups.google.com/g/coordinamento-mensola-settignano](https://groups.google.com/g/coordinamento-mensola-settignano)
-
-**Sito web:** [settignano.org](https://settignano.org)
-
-**Facebook**: [facebook.com/MensolaSettignano](https://www.facebook.com/MensolaSettignano)
+- **Sito web:** [settignano.org/coordinamento](https://settignano.org/coordinamento)
+- **Facebook**: [facebook.com/MensolaSettignano](https://www.facebook.com/MensolaSettignano)
+- **Instagram**: [instagram.com/mensolasettignano](https://www.instagram.com/mensolasettignano)
+- **Mailing List:** [groups.google.com](https://groups.google.com/g/coordinamento-mensola-settignano)
+- **Telefono**: Mario Andreini: 3473421510
