@@ -34,6 +34,5 @@ python -m ensurepip --upgrade
 python3 -m pip install --upgrade pip
 ```
 
-
 ## Copyright
 This site and all its contents are Copyright by Stefano Cecere and licensed under [CC BY NC SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
