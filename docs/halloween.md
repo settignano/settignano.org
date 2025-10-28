@@ -1,27 +1,29 @@
 ---
-title: Halloween 2024
+title: Halloween a Settignano
 hide:
   - navigation
 ---
-# Halloween a Settignano
-
-![](assets/img/halloween/halloween-2024.webp)
-
-## Mercoledì 30
-Dalle 14:30 alle 16:30 i bambini possono venire alla Casa del Popolo portando la propria zucca, attrezzi (coltello e cucchiaio minimo) e decori, e lavoreranno INSIEME AI PROPRI GENITORI O DELEGATI alla propria opera che poi porteranno a casa o lasceranno in esposizione per il giorno dopo.
-NECESSARIO PRENOTARSI ENTRO DOMENICA 27 al bar o 055697007
+# Halloween a Settignano 2025
 
 ## Giovedì 30
 
-- dalle 16:30 alle 17:30 ritrovo alla Casa del Popolo per merenda e vestizione (ognuno si porta i suoi vestiti e si veste)
-- dalle 17:30 alle 19:30 tutti in giro per Settignano (accompagnati dai propri genitori, ovviamente)
+![volantino](assets/img/halloween/halloween-2025-lab.webp)
 
-NB: non c'è nessuna attività pre-organizzata: ogni genitore deve tutelare i propri figli eventualmente in coordinazione con altri amci di classe. Noi si è fatto giusto un lavoro di preparazione e avviso.
+Dalle 16:30 i bambini possono venire alla Casa del Popolo per un laboratorio.
 
-## Abitanti di Settignano:
+## Venerdì 31
+
+![volantino](assets/img/halloween/halloween-2025.jpg)
+
+- Ore 16:30 Truccabimbi e Merenda tutti insieme, offerta dalla Cdp
+- Ore 17.00 lettura mostruosa con Effepi Teatro nel Salone per dare il via alla festa!
+- Ore 17.30 Dolcetto o scherzetto? I bambini e le bambine, accompagnata dai propri genitori, maghi e streghe, andranno in giro per Settignano in cerca di caramelle e fare scherzi agli abitanti.
+- Ore 20.00 Cena Sociale Mostruosa con menù pensato per i bambini
+
+## Abitanti di Settignano
 Fate sapere di essere pronti a regalare una caramella ai bambini che vagheranno per il paese. Mettete una candela accesa, o un disegno di una zucca, questo volantino o altro sulla vostra porta o citofono.
 
 ## Mappa
-questa è la mappa del 2023 (anno scorso)... vediamo se l'aggiorniamo ma altrimenti andate in giro... sopratutto da Tommaso!!
+Andate in giro ovunque, ma sicuramente qui:
 
-![](assets/img/halloween/halloween-mappa-2023.jpg)
+![mappa](assets/img/halloween/halloween-mappa-2025.jpg)
