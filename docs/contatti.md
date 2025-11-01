@@ -4,6 +4,9 @@ hide:
   - navigation
 ---
 
+## Social
+- [Pagina facebook](www.facebook.com/MensolaSettignano)
+
 ## Gruppi Facebook
 
 - [Quelli di... Settignano](https://www.facebook.com/groups/243660009013628/)
