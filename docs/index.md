@@ -12,7 +12,7 @@ hide:
 
 - :fontawesome-solid-book: **[Coordinamento Mensola-Settignano](./coordinamento.md)**
 - :fontawesome-solid-book: **[Casa del Popolo di Settignano](./cdp.md)**
-- :fontawesome-regular-circle-play: **[Halloweeb](./halloween.md)**
+- :fontawesome-regular-circle-play: **[Halloween](./halloween.md)**
 - :fontawesome-solid-book: **[Contatti](https://github.com/settignano/settignano.org)**
 
 </div>
