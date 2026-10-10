@@ -2,3 +2,6 @@
 [build]
   command = "mkdocs build"
   publish = "site"
+
+[build.environment]
+  NODE_VERSION = "22"
