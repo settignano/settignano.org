@@ -2,9 +2,3 @@
 [build]
   command = "mkdocs build"
   publish = "site"
-
-[[redirects]]
-  from = "/*"
-  to = "https://cdp.settignano.org/"
-  status = 302
-  force = true
