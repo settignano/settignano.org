@@ -3,27 +3,36 @@ title: Halloween a Settignano
 hide:
   - navigation
 ---
-# Halloween a Settignano 2025
+# Halloween a Settignano 2026
 
-## Giovedì 30
+## Sabato 31 ottobre 
 
-![volantino](assets/img/halloween/halloween-2025-lab.webp)
+![volantino](assets/img/halloween/halloween-2026.jpg)
 
-Dalle 16:30 i bambini possono venire alla Casa del Popolo per un laboratorio.
+La notte più misteriosa e spaventosa dell’anno sta per tornare! 
 
-## Venerdì 31
+Si parte alle 15:00 con il Laboratorio di Zucche.
 
-![volantino](assets/img/halloween/halloween-2025.jpg)
+Sarà un’occasione di condivisione a quattro mani, pensata proprio per far lavorare insieme grandi e piccini: i genitori rimarranno responsabili dei propri bimbi, mentre i nostri Fabio e Sara metteranno a disposizione tutto il supporto logistico necessario. Ciascuno dovrà portare la propria zucca e gli strumenti per intagliarla, scavarla e decorarla con colori e accessori. Se il tempo sarà clemente ci sistemeremo all’aperto nel piazzale, mentre in caso di pioggia ci sposteremo nella nostra ludoteca.   
 
-- Ore 16:30 Truccabimbi e Merenda tutti insieme, offerta dalla Cdp
-- Ore 17.00 lettura mostruosa con Effepi Teatro nel Salone per dare il via alla festa!
-- Ore 17.30 Dolcetto o scherzetto? I bambini e le bambine, accompagnata dai propri genitori, maghi e streghe, andranno in giro per Settignano in cerca di caramelle e fare scherzi agli abitanti.
-- Ore 20.00 Cena Sociale Mostruosa con menù pensato per i bambini
+Alle 17:30 prenderà il via la tanto attesa passeggiata per il “Dolcetto o Scherzetto?”. 
+
+Per guidare i piccoli mostri tra le strade del paese, distribuiremo tramite QR Code la mappa con tutte le case che hanno confermato la propria disponibilità ad accoglierli e a regalare un po’ di dolci.   
 
 ## Abitanti di Settignano
-Fate sapere di essere pronti a regalare una caramella ai bambini che vagheranno per il paese. Mettete una candela accesa, o un disegno di una zucca, questo volantino o altro sulla vostra porta o citofono.
+
+👉 A questo proposito, lanciamo un appello a tutti gli abitanti di Settignano: sbizzarritevi e partecipate! 
+
+Potete consultare la mappa aggiornata all’indirizzo settignano.org/halloween. Se volete aggiungere la vostra casa, vi basta inviare una mail a stefano.cecere@gmail.com oppure segnalarlo direttamente al gruppo genitori o in ludoteca. La sera del 31 ottobre, vi chiediamo di segnalare la vostra adesione accendendo una candela fuori dalla porta, oppure esponendo la locandina dell’evento o una decorazione a tema. 
+
+Un piccolo suggerimento: fate scorta di caramelle e cercate di darne una a bambino, così ce ne saranno a sufficienza per tutti!   
+
+## Cena
+
+Infine, alle 20:00, ci ritroveremo tutti insieme per la Cena Mascherata alla Casa del Popolo: maghi, streghe, vampiri e zombi di ogni età sono caldamente invitati a tavola per concludere la serata in allegria.
 
 ## Mappa
-Andate in giro ovunque, ma sicuramente qui:
 
-![mappa](assets/img/halloween/halloween-mappa-2025.jpg)
+Mappa in costruzione
+
+<!-- ![mappa](assets/img/halloween/halloween-mappa-2025.jpg) -->
