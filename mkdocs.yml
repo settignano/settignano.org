@@ -73,7 +73,8 @@ extra:
 
 nav:
   - Inizio: index.md
-  - Coordinamento Mensola-Settignano: coordinamento.md
   - Casa del Popolo: cdp.md
+  - Coordinamento Mensola-Settignano: coordinamento.md
+  - Centri Estivi: https://centriestivi.settignano.org
   - Halloween: halloween.md
   - contatti.md

@@ -12,6 +12,7 @@ hide:
 
 - :fontawesome-solid-book: **[Casa del Popolo di Settignano](./cdp.md)**
 - :fontawesome-solid-book: **[Coordinamento Mensola-Settignano](./coordinamento.md)**
+- :fontawesome-solid-book: **[Centri Estivi Firenze Settignano](https://centriestivi.settignano.org/)**
 - :fontawesome-solid-book: **[Newsletter](https://cdpsettignano.substack.com/)**
 - :fontawesome-regular-circle-play: **[Halloween](./halloween.md)**
 
