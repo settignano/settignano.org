@@ -5,6 +5,8 @@ hide:
 ---
 # Halloween a Settignano 2026
 
+Ricordiamo che tutte le attività all'interno della CdP (laboratorio, merenda, cena) sono riservate a chi ha la tessera ARCI
+
 ## Sabato 31 ottobre 
 
 ![volantino](assets/img/halloween/halloween-2026.jpg)
@@ -35,4 +37,5 @@ Infine, alle 20:00, ci ritroveremo tutti insieme per la Cena Mascherata alla Cas
 
 Mappa in costruzione
 
-<!-- ![mappa](assets/img/halloween/halloween-mappa-2025.jpg) -->
+![mappa](assets/img/halloween/halloween-mappa-2026.jpg)
+
