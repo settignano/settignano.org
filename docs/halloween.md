@@ -15,7 +15,9 @@ La notte più misteriosa e spaventosa dell’anno sta per tornare!
 
 Si parte alle 15:00 con il Laboratorio di Zucche.
 
-Sarà un’occasione di condivisione a quattro mani, pensata proprio per far lavorare insieme grandi e piccini: i genitori rimarranno responsabili dei propri bimbi, mentre i nostri Fabio e Sara metteranno a disposizione tutto il supporto logistico necessario. Ciascuno dovrà portare la propria zucca e gli strumenti per intagliarla, scavarla e decorarla con colori e accessori. Se il tempo sarà clemente ci sistemeremo all’aperto nel piazzale, mentre in caso di pioggia ci sposteremo nella nostra ludoteca.   
+Sarà un’occasione di condivisione a quattro mani, pensata proprio per far lavorare insieme grandi e piccini: i genitori rimarranno responsabili dei propri bimbi, mentre i nostri Fabio e Sara metteranno a disposizione tutto il supporto logistico necessario. Ciascuno dovrà portare la propria zucca e gli strumenti per intagliarla, scavarla e decorarla con colori e accessori. Se il tempo sarà clemente ci sistemeremo all’aperto nel piazzale, mentre in caso di pioggia ci sposteremo nella nostra ludoteca. 
+
+Alle 17:00 Merenda per i bambini offerta dalla CdP  
 
 Alle 17:30 prenderà il via la tanto attesa passeggiata per il “Dolcetto o Scherzetto?”. 
 
@@ -35,7 +37,6 @@ Infine, alle 20:00, ci ritroveremo tutti insieme per la Cena Mascherata alla Cas
 
 ## Mappa
 
-Mappa in costruzione
+NB: se volete aggiungervi alla mappa, scrivete a stefano.cecere@gmail.com
 
 ![mappa](assets/img/halloween/halloween-mappa-2026.jpg)
-
